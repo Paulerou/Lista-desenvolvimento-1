@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paulo Roberto de Araújo Viana Filho</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+           
+            text-align: center;
+        }
+
+        nav {
+            
+            padding: 10px;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            text-align: center;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        section {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Paulo Roberto de Araújo Viana Filho</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#experience">Experiência</a></li>
+            <li><a href="#education">Educação</a></li>
+            <li><a href="#skills">Habilidades</a></li>
+            <li><a href="#work-links">Links de Trabalho</a></li>
+        </ul>
+    </nav>
+    <section id="experience">
+        <h2>Experiência</h2>
+        <p>Centro Universitário Unieuro 2019 até o presente momento</p>
+    </section>
+    <section id="education">
+        <h2>Educação</h2>
+        <p>Superior Cursando</p>
+    </section>
+    <section id="skills">
+        <h2>Habilidades</h2>
+        <p>Comunicação eficaz: Capacidade de transmitir informações de forma clara e compreensível, tanto verbalmente quanto por escrito.
+
+Trabalho em equipe: Capacidade de colaborar e trabalhar de forma eficaz em grupos, contribuindo para metas comuns.</p>
+    </section>
+    <section id="work-links">
+        <h2>Links de Trabalho</h2>
+        <p>https://github.com/Paulerou</p>
+    </section>
+</body>
+</html>
