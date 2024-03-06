@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Processo de Trabalho</title>
+</head>
+<body>
+    <h1>Processo de Trabalho</h1>
+    <ol>
+        <li>Fechar contrato</li>
+        <li>Análise de sistema
+            <ol>
+                <li>Avaliação da empresa</li>
+                <li>Entrevista com funcionários</li>
+                <li>Pesquisa de documentação da empresa</li>
+            </ol>
+        </li>
+        <li>Programação
+            <ol>
+                <li>Aprovação do projeto</li>
+                <li>Treinamento dos usuários</li>
+            </ol>
+        </li>
+    </ol>
+</body>
+</html>
+
